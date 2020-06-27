@@ -1,0 +1,1 @@
+Currently looking into the installation of git, github, and the version control using Command Line
